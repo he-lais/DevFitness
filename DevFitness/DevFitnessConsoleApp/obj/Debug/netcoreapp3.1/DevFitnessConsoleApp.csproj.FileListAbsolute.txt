@@ -1,0 +1,13 @@
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\obj\Debug\netcoreapp3.1\DevFitnessConsoleApp.csprojAssemblyReference.cache
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\obj\Debug\netcoreapp3.1\DevFitnessConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\obj\Debug\netcoreapp3.1\DevFitnessConsoleApp.AssemblyInfo.cs
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\obj\Debug\netcoreapp3.1\DevFitnessConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\bin\Debug\netcoreapp3.1\DevFitnessConsoleApp.exe
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\bin\Debug\netcoreapp3.1\DevFitnessConsoleApp.deps.json
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\bin\Debug\netcoreapp3.1\DevFitnessConsoleApp.runtimeconfig.json
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\bin\Debug\netcoreapp3.1\DevFitnessConsoleApp.runtimeconfig.dev.json
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\bin\Debug\netcoreapp3.1\DevFitnessConsoleApp.dll
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\bin\Debug\netcoreapp3.1\DevFitnessConsoleApp.pdb
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\obj\Debug\netcoreapp3.1\DevFitnessConsoleApp.dll
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\obj\Debug\netcoreapp3.1\DevFitnessConsoleApp.pdb
+C:\Users\Cliente\Documents\Cursos Pessoais\DevFitness\DevFitness\DevFitnessConsoleApp\obj\Debug\netcoreapp3.1\DevFitnessConsoleApp.genruntimeconfig.cache
