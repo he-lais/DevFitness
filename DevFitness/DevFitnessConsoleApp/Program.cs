@@ -43,6 +43,13 @@ namespace DevFitness.ConsoleApp
                 }
             }
 
+            //var bebida = new Bebida("Leite Integral", 500, true);
+            //var comida = new Comida("Sanduba", 100, 0.5M);
+
+            //var listaComidas = new List<Refeicao> { bebida, comida };
+
+            //ListarRefeicoes(listaComidas);
+
             Console.WriteLine("Fechando o app.");
 
             Console.Read();
@@ -71,11 +78,11 @@ namespace DevFitness.ConsoleApp
 
                 refeicoes.Add(refeicao);
 
-                Console.WriteLine("\nRefeição adicionada com sucesso.");
+                Console.WriteLine("Refeição adicionada com sucesso.");
             }
             else
             {
-                Console.WriteLine("\nValor de calorias inválido.");
+                Console.WriteLine("Valor de calorias inválido.");
             }
         }
 
@@ -89,10 +96,6 @@ namespace DevFitness.ConsoleApp
     }
 }
 
-//-----------------------------------------------------------------------------------------//
-
-//***Lixo de Comentários para estudo***
-
 //double pi = Math.PI;
 
 //var minInt = 123123;
@@ -104,7 +107,7 @@ namespace DevFitness.ConsoleApp
 //var maxDecimal = decimal.MaxValue;
 
 //var caractere = 'b';
-//string nomeCompleto = "Lais Helena";
+//string nomeCompleto = "Luis Dev";
 
 //var array = new int[4] { 0, 1, 2, 3 };
 
@@ -159,11 +162,3 @@ namespace DevFitness.ConsoleApp
 //var min = notas.Min();
 //var sum = notas.Sum();
 //var average = notas.Average();
-
-
-//var bebida = new Bebida("Leite Integral", 500, true);
-//var comida = new Comida("Sanduba", 100, 0.5M);
-
-//var listaComidas = new List<Refeicao> { bebida, comida };
-
-//ListarRefeicoes(listaComidas);

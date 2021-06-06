@@ -10,18 +10,8 @@ namespace DevFitness.ConsoleApp
             Descricao = descricao;
             Calorias = calorias;
         }
-
-        // public: o acesso é público
-
-        // protected: o acesso está limitado para própria classe ou para classes derivadas
-
-        // internal: o acesso está limitado ao assembly atual
-
-        // private: o acesso está limitado a própria classe
-
         public string Descricao { get; private set; }
         public int Calorias { get; private set; }
-
 
         public virtual void ImprimirMensagem()
         {
@@ -29,3 +19,12 @@ namespace DevFitness.ConsoleApp
         }
     }
 }
+
+
+// public: o acesso é público
+
+// protected: o acesso está limitado para própria classe ou para classes derivadas
+
+// internal: o acesso está limitado ao assembly atual
+
+// private: o acesso está limitado a própria classe
